@@ -31,10 +31,10 @@ public class post {
 	@Column(name="Title1",nullable=false)
 	private String title;
 	
-	@Column(name="Description",nullable=false)
+	@Column(name="Description1",nullable=false)
 	private String description;
 	
-	@Column(name="Content",nullable=false)
+	@Column(name="Content1",nullable=false)
 	private String content;
 
 }
