@@ -28,7 +28,7 @@ public class post {
 			)
 	private Long id;
 	
-	@Column(name="Title",nullable=false)
+	@Column(name="Title1",nullable=false)
 	private String title;
 	
 	@Column(name="Description",nullable=false)
